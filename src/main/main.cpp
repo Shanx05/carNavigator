@@ -3,6 +3,6 @@
 int main(){
 
 	using namespace std;
-	std::cout<<"inside main"<<endl;
+	cout<<"inside main"<<endl;
 
 }
